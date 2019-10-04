@@ -1,2 +1,2 @@
 # Hactoberfest18
-Commit your life!
+All about commits and PRs!
